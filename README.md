@@ -1,4 +1,4 @@
-#DBGroup
+#IDBGroup
 ------------
 **Desarrollado por:**
 - Hugo Enrique Saavedra Sánchez
