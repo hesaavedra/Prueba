@@ -11,6 +11,7 @@
 - Bootstrap 5.0
 - Mysql 8.1.6
 - Apache 2.4
+- Restaurar base de datos: contactos.sql
 ------------
 **IDE de desarrollo:**
 - Visual Studio Code 1.68
